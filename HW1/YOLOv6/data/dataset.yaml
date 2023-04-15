@@ -1,0 +1,15 @@
+names:
+- fish
+- jellyfish
+- penguin
+- puffin
+- shark
+- starfish
+- stingray
+
+nc: 7
+is_coco: False
+
+train: ../datasets/hw1_dataset/images/train
+val: ../datasets/hw1_dataset/images/valid
+test: ../datasets/hw1_dataset/images/test
