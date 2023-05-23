@@ -116,3 +116,13 @@ venv.bak/
 *.onnx
 *.pt
 *.engine
+
+# images
+*.png
+
+# zip
+*.zip
+
+*.json
+
+input/

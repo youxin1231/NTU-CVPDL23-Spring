@@ -1,5 +1,6 @@
 # Download pretrained model
 if [ ! -f YOLOv6/weights/yolov6l6.pt ]; then
+    mkdir YOLOv6/weights
     wget https://github.com/meituan/YOLOv6/releases/download/0.3.0/yolov6l6.pt
     mv yolov6l6.pt YOLOv6/weights
 fi

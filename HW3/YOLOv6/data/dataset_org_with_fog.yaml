@@ -1,0 +1,16 @@
+names:
+- person
+- car
+- truck
+- bus
+- rider
+- motorcycle
+- bicycle
+- train
+
+nc: 8
+is_coco: False
+
+train: ../datasets/org_with_fog/images/train
+val: ../datasets/org_with_fog/images/val
+test: ../datasets/fog/images/val
